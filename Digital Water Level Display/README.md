@@ -22,15 +22,19 @@ The system monitors water levels and displays the current level on a 7-segment d
 ## Screenshots
 
 ![Circuit Diagram](screenshots/1.png)
-*Circuit schematic showing the complete water level display system*
+_Circuit schematic showing the complete water level display system_
 
 ![Simulation Results](screenshots/2.png)
-*Simulation output displaying water level on 7-segment display*
+_Simulation output displaying water level on 7-segment display_
 
-## Video Demo
+## Demo Video
 
-[![Water Level Display Demo](screenshots/1.png)](video.mp4)
-*Click to view simulation demonstration*
+<video width="600" controls>
+  <source src="Screenshots/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+_Note: If video doesn't display, [download it here](Screenshots/video.mp4)_
 
 ## How to Run
 
