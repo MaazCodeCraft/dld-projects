@@ -19,6 +19,14 @@ The system monitors water levels and displays the current level on a 7-segment d
 
 - `Digital Water Level Display using Encoders, BCD to 7 Segment and Hex Inverter.pdsprj` - Main Proteus simulation file
 
+## Screenshots
+
+![Circuit Diagram](screenshots/1.png)
+*Circuit schematic showing the complete water level display system*
+
+![Simulation Results](screenshots/2.png)
+*Simulation output displaying water level on 7-segment display*
+
 ## How to Run
 
 1. Open the `.pdsprj` file in Proteus ISIS
