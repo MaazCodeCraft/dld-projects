@@ -27,6 +27,11 @@ The system monitors water levels and displays the current level on a 7-segment d
 ![Simulation Results](screenshots/2.png)
 *Simulation output displaying water level on 7-segment display*
 
+## Video Demo
+
+[![Water Level Display Demo](screenshots/1.png)](video.mp4)
+*Click to view simulation demonstration*
+
 ## How to Run
 
 1. Open the `.pdsprj` file in Proteus ISIS
